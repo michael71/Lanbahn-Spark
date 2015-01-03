@@ -14,9 +14,10 @@ Lanbahn software for controlling Spark.io cores - see http://www.lanbahn.net/spa
 
 <h2>Pre-Requisites</h2>
 <pre>
-1) lanbahn hardware with Spark Core (see http://www.lanbahn.net/spark)
+1) lanbahn hardware with Spark Core (see http://www.lanbahn.net/spark )
 2) "firmware_A121.bin" installed on Spark Core
-3) local spark-server
+and, if you want to have a fast response to commands: 
+3) a spark-server in your local network (see documentation on http://docs.spark.io/ )
 </pre>
 
 
