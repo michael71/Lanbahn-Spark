@@ -8,7 +8,8 @@ Lanbahn software for controlling Spark.io cores - see http://www.lanbahn.net/spa
 1) copy all files in a directory
 1) install nodejs 
 3) install the node modules "dateformat" and "request" 
-4) start program with : node lanbahn2spark.js
+4) change settings (your access_token, your spark-server url) in sparkconfig.js
+5) start program with: <i>node lanbahn2spark.js</i>
 </pre>
 
 <h2>Pre-Requisites</h2>
