@@ -1,7 +1,8 @@
 Lanbahn-Spark
 =============
 
-Lanbahn software for controlling model railroad accessory decoders with Spark.io cores - see http://www.lanbahn.net/spark 
+<p>Lanbahn software for controlling model railroad accessory decoders with Spark.io cores</p>
+<p> - see http://www.lanbahn.net/spark </p>
 
 <table><tr><td>
 <a href="http://www.lanbahn.net/wp-content/uploads/2014/12/lanbahn-sigplus-rev.0.21.png"><img src="http://www.lanbahn.net/wp-content/uploads/2014/12/lanbahn-sigplus-rev.0.21-292x300.png" alt="lanbahn-sigplus-rev.0.2" width="292" height="300" class="aligncenter size-medium wp-image-177" /></a></td><td>
