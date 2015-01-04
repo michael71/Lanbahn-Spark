@@ -4,8 +4,7 @@ Lanbahn-Spark
 Lanbahn software for controlling Spark.io cores - see http://www.lanbahn.net/spark 
 
 <h2>Installation:</h2>
-<pre>
-1) copy all files in a directory
+<pre>1) copy all files in a directory
 2) install nodejs 
 3) install the node modules "dateformat" and "request" 
 4) change settings (your access_token, your spark-server url) in sparkconfig.js
@@ -13,8 +12,7 @@ Lanbahn software for controlling Spark.io cores - see http://www.lanbahn.net/spa
 </pre>
 
 <h2>Pre-Requisites</h2>
-<pre>
-1) lanbahn hardware with Spark Core (see http://www.lanbahn.net/spark )
+<pre>1) lanbahn hardware with Spark Core (see http://www.lanbahn.net/spark )
 2) Spark Core supplied with your wifi keys (with android SW on spark.io site)
 3) "firmware_A121.bin" installed on Spark Core
 4) adapt the config file lb2spark.json which defines the mappings between 
@@ -27,8 +25,8 @@ and, if you want to have a fast response to commands:
 </pre>
 
 <h2>How it works</h2>
-<pre>After starting the software with "node lanbahn2spark.js" a UDP multicast client 
+<p>After starting the software with "node lanbahn2spark.js" a UDP multicast client 
 is listening to UDP messages on the LANBAHN port 27027 and LANBAHN multicast group. 
 When the client receives a "SET" messages with an address that can be matched to one 
 of the connected spark cores, the spark core will be sent a http request with the 
-appropriate command to change it outputs. </pre>
+appropriate command to change it outputs. </p>
