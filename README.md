@@ -1,7 +1,8 @@
 Lanbahn-Spark
 =============
 
-Lanbahn software for controlling Spark.io cores - see http://www.lanbahn.net/spark 
+Lanbahn software for controlling model railroad accessory decoders with Spark.io cores - see http://www.lanbahn.net/spark 
+
 
 <h2>Installation:</h2>
 <pre>1) copy all files in a directory
