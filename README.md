@@ -12,7 +12,7 @@ Lanbahn-Spark
 <h2>Installation:</h2>
 <pre>1) copy all files in a directory
 2) install nodejs 
-3) install the node modules "dateformat" and "request" 
+3) install the node modules "dateformat", "request" and "eventsource"
 4) change settings (your access_token, your spark-server url) in sparkconfig.js
 5) start program with: <i>node lanbahn2spark.js</i>
 </pre>
